@@ -1,4 +1,4 @@
-# prueba1
+# Counter
 
 A new Flutter project.
 
